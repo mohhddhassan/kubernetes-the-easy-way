@@ -8,7 +8,7 @@ This repo is designed for **beginners** who often get stuck with the same questi
 ## ✨ Why this repo?
 When I started learning Kubernetes, I noticed:  
 - 📚 **Official docs** are detailed but overwhelming for beginners.  
-- 🎥 **Video tutorials** (like Tech With Nana) are amazing, but I still had follow-up doubts.  
+- 🎥 **Video tutorials** (like TechWorld with Nana) are amazing, but I still had follow-up doubts.  
 - 📝 I wanted **one place** to write **simple notes, questions, and answers** as I learn.  
 
 This repo is my way of documenting:  
@@ -43,7 +43,7 @@ This repo is my way of documenting:
 ---
 
 ## 📚 Resources Used
-- [Tech With Nana - Kubernetes Playlist](https://www.youtube.com/c/TechWorldwithNana) 🎥  
+- [TechWorld with Nana - Kubernetes Playlist](https://www.youtube.com/c/TechWorldwithNana) 🎥  
 - [Kubernetes Official Docs](https://kubernetes.io/docs) 📖  
 - Other useful articles & notes (linked inside relevant folders) 🧩  
 
