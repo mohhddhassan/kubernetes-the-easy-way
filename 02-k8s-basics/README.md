@@ -86,11 +86,3 @@ Pods restart → IP changes → broken connections.
 For Docker basics → [Docker Basics for Data Engineers](https://github.com/mohhddhassan/Docker-Basics-for-Data-Engineers)
 
 ---
-
-**ConfigMap → config**
-**Secret → credentials**
-## **StatefulSet and DB replica**
-**Deployment → stateless apps**
-**StatefulSet → stateful apps**
-
----
