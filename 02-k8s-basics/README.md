@@ -1,9 +1,3 @@
-Here’s a **short & beginner-friendly version** of your Kubernetes basics README with **lightly sprinkled emojis**:
-
----
-
-# Kubernetes Basics
-
 ## What is Kubernetes?
 
 Kubernetes (K8s) is a **container orchestration platform** to manage containers at scale.
@@ -94,6 +88,3 @@ For Docker basics → [Docker Basics for Data Engineers](https://github.com/mohh
 **StatefulSet → stateful apps**
 
 ---
-
-Want me to **also add a small diagram (ASCII or image)** for **Pod → Service → Ingress**?
-That’ll make it easier to digest visually.
