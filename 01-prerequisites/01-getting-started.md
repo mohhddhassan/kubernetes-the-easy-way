@@ -15,15 +15,13 @@ Kubernetes runs on Linux-based nodes, so a tiny bit of Linux knowledge helps.
   ls      # list files
   cd dir  # move into directory
 ````
-
-* **Files & Folders**
-
+- **Files & Folders**
   ```bash
   touch file.txt      # create file
   mkdir myfolder      # create folder
   rm file.txt         # remove file
   cat file.txt        # view file content
-  ```
+````
 * **Permissions (only what you need now)**
 
   ```bash
