@@ -10,7 +10,7 @@ It automates:
 * Networking 🌐
 * Storage 💾
 
-**Why?**
+## Why?**
 Modern apps use **microservices** → each runs in its own container → managing them manually is hard. Kubernetes handles it for you.
 
 ---
