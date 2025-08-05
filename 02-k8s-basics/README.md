@@ -86,3 +86,5 @@ Pods restart → IP changes → broken connections.
 For Docker basics → [Docker Basics for Data Engineers](https://github.com/mohhddhassan/Docker-Basics-for-Data-Engineers)
 
 ---
+
+Want to know in depth about each of the above check it out here [Kubernetes Components Deep Dive](https://github.com/mohhddhassan/Docker-Basics-for-Data-Engineers)
