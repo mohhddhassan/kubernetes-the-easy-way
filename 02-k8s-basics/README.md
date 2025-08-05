@@ -87,4 +87,4 @@ For Docker basics → [Docker Basics for Data Engineers](https://github.com/mohh
 
 ---
 
-Want to know in depth about each of the above check it out here [Kubernetes Components Deep Dive](https://github.com/mohhddhassan/kubernetes-the-easy-way/blob/main/02-k8s-basics/k8s-core-deep-dive)
+Want to know in depth about each of the above check it out here [Kubernetes Components Deep Dive](https://github.com/mohhddhassan/kubernetes-the-easy-way/blob/main/02-k8s-basics/k8s-core-deep-dive.md)
