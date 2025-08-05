@@ -43,23 +43,28 @@ Provides **domain-based access** (like `https://myapp.com` instead of `http://IP
 
 ### ConfigMap & Secret
 
-* **ConfigMap** → non-sensitive config data.
+* **ConfigMap** → non-sensitive config data (Database endpoints).
 * **Secret** → sensitive data (passwords, API keys).
 
 ### Volumes
 
-For **persistent storage**.
+Provide **persistent storage** to pods (containers lose data on restart).
 
 * `emptyDir` → temp storage
 * `PersistentVolume (PV)` + `PersistentVolumeClaim (PVC)` → permanent storage
 
 ### Deployment
 
-For **stateless apps**. Handles scaling, rolling updates, and recovery.
+**Recommended way** to manage **stateless apps**.
+- Handles:
+    - Replica scaling.
+    - Rolling updates & rollbacks.
+    - Self-healing (replacing failed pods automatically).
+- **Typical usage:** APIs, web apps, frontends.
 
 ### StatefulSet
 
-For **stateful apps** (databases, Kafka). Provides stable pod names and storage.
+Used for **stateful apps** that need **stable network IDs & persistent storage**.
 
 > Often, databases are hosted **outside Kubernetes** and connected via ConfigMaps.
 
@@ -84,6 +89,7 @@ For Docker basics → [Docker Basics for Data Engineers](https://github.com/mohh
 
 **ConfigMap → config**
 **Secret → credentials**
+## **StatefulSet and DB replica**
 **Deployment → stateless apps**
 **StatefulSet → stateful apps**
 
