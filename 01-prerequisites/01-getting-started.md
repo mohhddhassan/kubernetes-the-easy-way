@@ -22,7 +22,7 @@ Kubernetes runs on Linux-based nodes, so a tiny bit of Linux knowledge helps.
   rm file.txt         # remove file
   cat file.txt        # view file content
 ````
-* **Permissions (only what you need now)**
+- **Permissions (only what you need now)**
 
   ```bash
   chmod +x script.sh   # make file executable
