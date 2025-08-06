@@ -1,7 +1,7 @@
 # Kubernetes Basic Commands
 
 ## Cluster Info
-- `kubectl version --short` → Show client and server versions.
+- `kubectl version` → Show client and server versions.
 - `kubectl cluster-info` → Display cluster information.
 - `kubectl get nodes -o wide` → Show all nodes with details.
 
