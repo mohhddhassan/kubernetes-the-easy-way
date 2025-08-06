@@ -14,6 +14,8 @@
 - `kubectl create deployment myapp --image=nginx` → Create deployment.
 - `kubectl get deployments` → List deployments.
 - `kubectl delete deployment myapp` → Delete deployment.
+- `kubectl edit deployment myapp` → Edit deployment.
+
 
 ## Services
 - `kubectl expose deployment myapp --type=NodePort --port=80` → Expose deployment.
