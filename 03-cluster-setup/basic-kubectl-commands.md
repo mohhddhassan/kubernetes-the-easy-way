@@ -45,4 +45,3 @@ kubectl delete pod nginx
 
 These are the most common commands you’ll use daily in Kubernetes.
 
-```
