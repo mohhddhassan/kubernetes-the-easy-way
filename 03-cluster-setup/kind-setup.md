@@ -44,5 +44,3 @@ kind-control-plane   Ready    control-plane   1m    v1.30.0
 ```bash
 kind delete cluster --name demo
 ```
-
-````
