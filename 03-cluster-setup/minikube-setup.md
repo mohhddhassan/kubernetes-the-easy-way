@@ -53,6 +53,3 @@ minikube   Ready    control-plane   1m    v1.30.0
   ```bash
   minikube delete
   ```
-
-````
-
