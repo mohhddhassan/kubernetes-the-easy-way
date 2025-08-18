@@ -1,6 +1,3 @@
-## 📄 `minikube-setup.md`
-
-````markdown
 # Minikube Setup
 
 Minikube is a tool that lets you run Kubernetes locally on your laptop.
