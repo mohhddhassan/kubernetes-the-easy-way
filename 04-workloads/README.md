@@ -8,4 +8,4 @@ The most common workloads are:
 - **Deployment** → Manages ReplicaSets, provides updates, rollbacks, and scaling.
 
 In this folder, you’ll find examples for each workload type with simple YAML manifests.
-```
+
