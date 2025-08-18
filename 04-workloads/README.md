@@ -1,6 +1,3 @@
-### 📄 `README.md`
-
-```markdown
 # Workloads
 
 Workloads in Kubernetes are the objects you use to run and manage your applications.
