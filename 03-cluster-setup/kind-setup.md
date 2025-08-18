@@ -1,5 +1,3 @@
-## 📄 `kind-setup.md`
-```markdown
 # Kind Setup
 
 Kind (Kubernetes IN Docker) is another easy way to run Kubernetes clusters for learning or testing.
