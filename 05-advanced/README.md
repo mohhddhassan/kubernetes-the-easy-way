@@ -1,4 +1,4 @@
-# 🚀 Advanced Kubernetes
+# Advanced Kubernetes
 
 This folder is where we move past the basics and workloads stuff.  
 Here we’re diving into topics that make a cluster *production-ready* – configs, networking, storage, scaling, etc.  
