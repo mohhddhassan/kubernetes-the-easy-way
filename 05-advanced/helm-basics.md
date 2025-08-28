@@ -28,3 +28,4 @@ helm install my-nginx bitnami/nginx
 # List releases
 helm list
 
+👉 TLDR: Helm saves us from YAML hell.
