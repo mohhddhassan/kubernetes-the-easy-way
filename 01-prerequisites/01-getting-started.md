@@ -1,7 +1,7 @@
 # Prerequisites - Getting Started (Minimal)
 
 So you want to jump into Kubernetes but don’t want to be buried under 100 things?  
-Here’s the bare minimum to start — no fluff, no deep theory.  
+Here’s the bare minimum to start - no fluff, no deep theory.  
 
 ---
 
