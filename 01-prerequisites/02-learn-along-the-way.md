@@ -1,7 +1,7 @@
 # Prerequisites - Learn Along the Way
 
 Once you’ve got the basics (Linux, Docker, YAML), you’ll naturally bump into concepts while using Kubernetes.  
-This section lists those “learn as you go” skills — you don’t need to master them upfront but knowing what they are helps.
+This section lists those “learn as you go” skills - you don’t need to master them upfront but knowing what they are helps.
 
 ---
 
