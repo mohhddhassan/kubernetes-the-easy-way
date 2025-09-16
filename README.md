@@ -30,7 +30,7 @@ I’ve structured it in a way that I (and anyone else reading) can go step by st
   → Scaling & Autoscaling  
 
 - **doubts**  
-  → A space where I drop my doubts/questions while learning.  
+  → A space where I drop my doubts/questions which i got while learning.  
   → Plan is that others (or future me) can check and maybe answer them.  
   → No question is “too small/dumb” – if I thought about it, it’s worth noting down here 👀.
 
