@@ -33,7 +33,7 @@ Kubernetes runs on Linux-based nodes, so a tiny bit of Linux knowledge helps.
 
 ## 2. Docker Basics (Very Quick)
 
-Kubernetes orchestrates containers, so knowing what a container is… is kinda needed.
+Kubernetes orchestrates containers, so knowing what a container is… kinda needed.
 
 - **Container vs VM in one line:**  
   VM = heavy (OS + app)  
